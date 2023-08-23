@@ -5,6 +5,8 @@
 # [🎯] : Discord Bot Nuk3r ☚
 --------------------------------
 \\ ✮ More information in version 1.0.0.2 ✮ //
+
+--------------------------------
 ![image](https://github.com/K4CuDev/f16tools/assets/98413376/03388874-6df3-4af6-a5a7-d7de1f8b328d)
 
 
