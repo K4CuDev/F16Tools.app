@@ -1,2 +1,3 @@
-# f16tools
-Oprogramowanie na developerów discord
+# ✦ f16tools ✦
+Nowe oprogramowanie dla developerów discord w wersji BETA
+
